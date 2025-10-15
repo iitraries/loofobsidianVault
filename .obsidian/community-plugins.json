@@ -8,5 +8,6 @@
   "obsidian-admonition",
   "obsidian-advanced-uri",
   "obsidian-excalidraw-plugin",
-  "github-sync"
+  "github-sync",
+  "obsidian-git"
 ]

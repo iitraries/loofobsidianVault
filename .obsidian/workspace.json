@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Global/Unreal Cpp/Widgets/UMG widgets with C++.md",
+                "file": "Unreal Cpp/Widgets/UMG widgets with C++.md",
                 "mode": "source",
                 "source": false
               },
@@ -200,19 +200,19 @@
       "workspaces:Manage workspace layouts": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "0f2c60fc09eb28bc",
+  "active": "81b93f0278898a5b",
   "lastOpenFiles": [
     "Welcome.md",
     "Local",
-    "Global/Unreal Cpp/Widgets/UMG widgets with C++.md",
+    "Unreal Cpp/Widgets/UMG widgets with C++.md",
     "Global",
-    "Global/Unreal Cpp/Widgets",
-    "Global/Unreal Cpp",
-    "Global/Pasted image 20251016000105.png"
+    "Unreal Cpp/Widgets",
+    "Unreal Cpp",
+    "Unreal Cpp/Widgets/Pasted image 20251016000105.png"
   ]
 }
