@@ -1,0 +1,10 @@
+{
+  "autoLockMinutes": 15,
+  "privacyMode": "blur",
+  "protectedPaths": [
+    "/"
+  ],
+  "hint": "",
+  "password": "0AdRoBs%y8in",
+  "blockGraph": true
+}
