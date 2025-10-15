@@ -184,6 +184,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -205,8 +206,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "81b93f0278898a5b",
+  "active": "0f2c60fc09eb28bc",
   "lastOpenFiles": [
+    "Pasted image 20251016010045.png",
     "Welcome.md",
     "Local",
     "Unreal Cpp/Widgets/UMG widgets with C++.md",
